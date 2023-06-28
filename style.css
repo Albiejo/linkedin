@@ -1,0 +1,373 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.navlogodiv
+{
+    height: 120px;
+    width: 444px;
+    float: left;
+}
+.navlistdiv{
+    height: 120px;
+    width: 100%;
+ margin-left: 439px;
+ 
+}
+#logo
+{
+    height: 55px;
+    margin-left: 56px;
+    margin-top: 31px;
+}
+
+.linav{
+    list-style: none;
+    float: left;
+    margin-left: 10px;
+   
+}
+#ulnav
+{
+    padding-top: 24px;
+    margin-left: 252px;
+}
+.butt
+{
+    height: 55px;
+    width: 107px;
+    border-radius: 43px;
+    background-color: white;
+    color: black;
+    border: 2px solid #0A66C2;
+    margin-left: 33px;
+    margin-top: 10px;
+}
+.mainbody{
+    height: 673px;
+    width: 100%;
+    position: relative;
+    background-color:rgb(255, 255, 255)255, 255, 255;
+}
+#mainhead
+{
+    font-family:'BlinkMacSystemFont', 'Segoe UI', 'Roboto', 'Helvetica Neue', 'Fira Sans', 'Ubuntu', 'Oxygen', 'Oxygen Sans', Cantarell, 'Droid Sans', 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Lucida Grande', Helvetica, Arial, sans-serif;
+    font-size: 56px;
+    font-weight: 200;
+    color: #8f5849;
+    padding-top: 12px;
+    text-align: left;
+}
+.mainleftbody
+{
+    width: 45%;
+    height: 100vh;
+    margin-left: 98px;
+}
+.mbinput
+{
+    height: 45px;
+    width: 372px;
+    border: 1px solid black;
+    border-radius: 7px;
+    
+}
+#mblink
+{
+color: #0a66c2;
+text-decoration: none;
+font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', 'Fira Sans', Ubuntu, Oxygen, 'Oxygen Sans', Cantarell, 'Droid Sans', 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Lucida Grande', Helvetica, Arial, sans-serif;
+font-weight: 600;
+}
+
+.signbutt{
+    width: 364px;
+    background-color: #0a66c2;
+    color: white;
+    height: 45px;
+    border-radius: 42px;
+    font-weight: 600;
+    font-size: 15px;
+    cursor: pointer;
+    transition: all;
+}
+.signbutt:hover{
+   opacity: 0.7;
+}
+
+#lineorimg{height: 42px;
+margin-top: 9px;
+}
+
+.signbutt2
+{
+    width: 364px;
+    border: 1px solid black;
+    background-color: #ffffff;
+    color: rgb(0, 0, 0);
+    height: 45px;
+    border-radius: 42px;
+    font-weight: 500;
+    font-size: 15px; 
+    margin-top: 10px;
+}
+.signbutt2:hover{
+   border: 2px solid black;
+}
+#buttlogo
+{
+    height: 22px;
+    margin-left: -11px;
+    padding-right: 21px;
+}
+.mainrightbody
+{
+    height: 800px;
+    width: 700px;
+    position: absolute;
+    right: 0;
+    top: 0;
+}
+
+.rightbodyimage
+{
+    height: 600px;
+    width: 680px;
+    margin-left: -32px;
+}
+
+.mainbody2
+{
+    height: 312px;
+    width: 100%;
+    position: relative;
+    background-color:#f3f2f0;
+
+}
+.body2right
+{
+    margin-top: 49px;
+    height: 312px;
+    width: 829px;
+    float: right;
+    background-color:#f3f2f0;
+    opacity: 1;
+}
+.body2left{
+    height: 361px;
+    width: 690px;
+    background-color: #f3f2f0;
+    position: absolute;
+    top: 0;
+    margin-left: -31px;
+}
+#leftimage
+{
+    height: 323px;
+    width: 529px;
+    margin-top: 28px;
+    margin-left: 82px;
+}
+
+.right-body-butt
+{
+   margin-top: 17px;
+   margin-left: 17px;
+   margin-right: 10;
+    background-color: #f3f2f0;
+    border-radius: 31px;
+    font-size: 15px;
+    border: 1.5px solid black;
+}
+.right-body-butt:hover{
+    border: 2px solid black;
+}
+#right-body-buttid
+{
+    margin-top: 17px;
+    margin-left: 17px;
+    margin-right: 10;
+     background-color: #f3f2f0;
+     border-radius: 31px;
+     font-size: 15px;
+     color: blue;
+     background-color: #f3f2f0;
+     border: 1.5px solid blue;
+}
+#right-body-buttid:hover{
+    border: 2px solid blue;
+}
+.mainbody3
+{
+    background-color:blue;
+    position: relative;
+}
+.bodyleft
+{
+    height: 90vh;
+    width: 800px;
+    background-color: #f3f2f0;
+    margin-top: 99px;
+    position: relative;
+   
+}
+#body3img
+{
+    height: 249px;
+    margin-top: 110px;
+    margin-left: 73px;
+}
+
+.body3butt
+{
+    height: 46px;
+    width: 390px;
+    color: black;
+    background-color: #cbcbc9;
+    border: 1px solid black;
+    margin-top:15px;
+    margin-left: 151px;
+}
+.body3butt:hover{
+    border: 2px solid black;
+}
+.bodyright
+{
+    background-color: red;
+    height: 642px;
+    width: 720px;
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+.bodyright > #body3rightimg
+{
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}
+
+.mainbody4{
+    height: 99vh;
+    margin-top: 67px;
+}
+.body4right{
+    height: 88vh;
+    width: 68%;
+    background-color:#f4faff;
+    float: right;
+    margin-top: 55px;
+    position: relative;
+    border: 1px solid black;
+   
+}
+#body4img
+{
+    height: 196px;
+    width: 490px;
+    margin-top: 200px;
+    margin-left: 261px;
+}
+
+.body4left
+{
+    width: 559px;
+    height: 379px;
+    position: absolute;
+    top: 103px;
+    left: -420px;
+}
+
+.body4left>iframe
+{
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}
+
+.fifthhody
+{
+    height: 100vh;
+    width: 100%;
+    background-color: gray;
+    margin-top: 70px;
+    position: relative;
+}
+
+.fifthhody> #fifthbodyimage
+{
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}
+
+.fifthbutt
+{
+    position:absolute ;
+    background-color: #0A66C2;
+    color: white;
+    font-weight: 500;
+    top: 0;
+    left: 0;
+    margin-left: 174px;
+    margin-top: 149px;
+    border-radius: 42px;
+    height: 58px;
+    width: 146px;
+}
+.footer
+{
+    height: 50vh;
+    width: 100%;
+    background-color:#f3f2f0;
+    margin-top: 10px;
+
+}
+
+#footerlogo
+{
+    height: 42px;
+    margin-top: 28px;
+    margin-left: 141px
+}
+
+ul{
+    float: left;
+    margin-left: 125px;
+    margin-right: 15px;
+    padding-top: 38px;
+    list-style: none;
+}
+
+.footer ul li{
+    padding-top: 8px;
+}
+
+.footer ul li a{
+    text-decoration: none;
+    color: black;
+    font-size: 18px;
+    font-family: math;
+    cursor: pointer;
+}
+
+.footer ul li a:hover
+{
+    color:blue;
+}
+#language
+{
+    height: 30px;
+    width: 101px;
+}
+
+.linav:hover{
+    border: 1px solid black;
+    opacity: 0.5;
+}
+.butt:hover{
+    background-color: #0A66C2;
+    color: white;
+    font-weight: 500;
+    border: 2px solid black;
+}
